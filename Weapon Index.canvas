@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a2b82b32beff2a32","x":-820,"y":-360,"width":400,"height":400,"type":"link","url":"https://de.wikipedia.org/wiki/Kusarigama"},
+		{"id":"5d5ebdddb8de326f","x":-320,"y":-360,"width":400,"height":400,"type":"link","url":"https://de.wikipedia.org/wiki/Tonfa"},
+		{"id":"0660231942e8de1b","x":180,"y":-360,"width":400,"height":400,"type":"link","url":"https://en.wikipedia.org/wiki/Hook_sword"}
+	],
+	"edges":[]
+}

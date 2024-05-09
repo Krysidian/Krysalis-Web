@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ded7ec27c1865091","type":"file","file":"Attachments/gkaffix.pdf","x":50,"y":-234,"width":450,"height":554},
+		{"id":"e5ef004d1932733e","type":"link","url":"https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/H%E2%80%93O","x":540,"y":-220,"width":400,"height":400},
+		{"id":"a0222f4abc9753ee","type":"link","url":"https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/A%E2%80%93G","x":540,"y":-680,"width":400,"height":400},
+		{"id":"0b5a3e22e526dfea","type":"link","url":"https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/P%E2%80%93Z","x":540,"y":240,"width":400,"height":400}
+	],
+	"edges":[]
+}
