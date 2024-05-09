@@ -1,1 +1,0 @@
-![[squatting dinara wide2_1.4.1.png]]
